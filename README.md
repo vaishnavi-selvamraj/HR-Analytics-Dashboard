@@ -2,7 +2,7 @@
  
 An interactive Power BI dashboard providing end-to-end visibility into employee attrition, demographics, and workforce composition.
  
-![image_alt}(https://github.com/vaishnavi-selvamraj/HR-Analytics-Dashboard/blob/main/Screenshot%20(70).png?raw=true)
+![image_alt](https://github.com/vaishnavi-selvamraj/HR-Analytics-Dashboard/blob/main/Screenshot%20(70).png?raw=true)
  
 ## 🔍 Overview
  
